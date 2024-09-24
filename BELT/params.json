@@ -1,0 +1,1 @@
+{"batch_size": 4, "learning_rate": 3e-05, "epochs": 3, "accumulation_steps": 1, "chunk_size": 510, "stride": 510, "minimal_chunk_length": 510, "pooling_strategy": "mean", "maximal_text_length": 2040, "num_labels": 2}
